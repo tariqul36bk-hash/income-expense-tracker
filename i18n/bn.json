@@ -1,0 +1,92 @@
+{
+  "auth": {
+    "login": "লগইন",
+    "signup": "সাইন আপ",
+    "logout": "লগআউট",
+    "email": "ইমেইল ঠিকানা",
+    "password": "পাসওয়ার্ড",
+    "confirmPassword": "পাসওয়ার্ড নিশ্চিত করুন",
+    "fullName": "সম্পূর্ণ নাম",
+    "forgotPassword": "পাসওয়ার্ড ভুলে গেছেন?",
+    "resetPassword": "পাসওয়ার্ড রিসেট করুন",
+    "signupNow": "এখনই সাইন আপ করুন",
+    "loginNow": "এখনই লগইন করুন",
+    "noAccount": "অ্যাকাউন্ট নেই?",
+    "haveAccount": "ইতিমধ্যে অ্যাকাউন্ট আছে?",
+    "sendResetLink": "রিসেট লিংক পাঠান",
+    "backToLogin": "লগইনে ফিরুন"
+  },
+  "dashboard": {
+    "title": "ড্যাশবোর্ড",
+    "welcome": "স্বাগতম ফিরে আসুন",
+    "totalIncome": "মোট আয়",
+    "totalExpense": "মোট ব্যয়",
+    "currentBalance": "বর্তমান ব্যালেন্স",
+    "monthlyOverview": "মাসিক সারসংক্ষেপ",
+    "recentTransactions": "সাম্প্রতিক লেনদেন",
+    "incomeByCategory": "বিভাগ অনুযায়ী আয়",
+    "expenseByCategory": "বিভাগ অনুযায়ী ব্যয়"
+  },
+  "income": {
+    "title": "আয়",
+    "addIncome": "আয় যোগ করুন",
+    "editIncome": "আয় সম্পাদনা করুন",
+    "deleteIncome": "আয় মুছুন",
+    "amount": "পরিমাণ",
+    "category": "বিভাগ",
+    "date": "তারিখ",
+    "note": "নোট",
+    "noIncome": "কোনো আয়ের রেকর্ড পাওয়া যায়নি"
+  },
+  "expense": {
+    "title": "ব্যয়",
+    "addExpense": "ব্যয় যোগ করুন",
+    "editExpense": "ব্যয় সম্পাদনা করুন",
+    "deleteExpense": "ব্যয় মুছুন",
+    "amount": "পরিমাণ",
+    "category": "বিভাগ",
+    "date": "তারিখ",
+    "note": "নোট",
+    "noExpense": "কোনো ব্যয়ের রেকর্ড পাওয়া যায়নি"
+  },
+  "category": {
+    "title": "বিভাগসমূহ",
+    "addCategory": "বিভাগ যোগ করুন",
+    "editCategory": "বিভাগ সম্পাদনা করুন",
+    "deleteCategory": "বিভাগ মুছুন",
+    "name": "বিভাগের নাম",
+    "icon": "আইকন",
+    "color": "রঙ",
+    "type": "ধরন",
+    "income": "আয়",
+    "expense": "ব্যয়"
+  },
+  "settings": {
+    "title": "সেটিংস",
+    "profile": "প্রোফাইল",
+    "preferences": "পছন্দসমূহ",
+    "security": "নিরাপত্তা",
+    "darkMode": "ডার্ক মোড",
+    "language": "ভাষা",
+    "currency": "মুদ্রা",
+    "changePassword": "পাসওয়ার্ড পরিবর্তন করুন",
+    "logout": "লগআউট"
+  },
+  "common": {
+    "save": "সংরক্ষণ করুন",
+    "cancel": "বাতিল করুন",
+    "delete": "মুছুন",
+    "edit": "সম্পাদনা করুন",
+    "add": "যোগ করুন",
+    "loading": "লোড হচ্ছে...",
+    "error": "ত্রুটি",
+    "success": "সফল",
+    "confirm": "নিশ্চিত করুন",
+    "search": "অনুসন্ধান",
+    "filter": "ফিল্টার",
+    "sort": "সাজান",
+    "month": "মাস",
+    "year": "বছর",
+    "all": "সব"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "auth": {
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout",
+    "email": "Email Address",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "fullName": "Full Name",
+    "forgotPassword": "Forgot Password?",
+    "resetPassword": "Reset Password",
+    "signupNow": "Sign up now",
+    "loginNow": "Login now",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "sendResetLink": "Send Reset Link",
+    "backToLogin": "Back to Login"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome back",
+    "totalIncome": "Total Income",
+    "totalExpense": "Total Expense",
+    "currentBalance": "Current Balance",
+    "monthlyOverview": "Monthly Overview",
+    "recentTransactions": "Recent Transactions",
+    "incomeByCategory": "Income by Category",
+    "expenseByCategory": "Expense by Category"
+  },
+  "income": {
+    "title": "Income",
+    "addIncome": "Add Income",
+    "editIncome": "Edit Income",
+    "deleteIncome": "Delete Income",
+    "amount": "Amount",
+    "category": "Category",
+    "date": "Date",
+    "note": "Note",
+    "noIncome": "No income records found"
+  },
+  "expense": {
+    "title": "Expense",
+    "addExpense": "Add Expense",
+    "editExpense": "Edit Expense",
+    "deleteExpense": "Delete Expense",
+    "amount": "Amount",
+    "category": "Category",
+    "date": "Date",
+    "note": "Note",
+    "noExpense": "No expense records found"
+  },
+  "category": {
+    "title": "Categories",
+    "addCategory": "Add Category",
+    "editCategory": "Edit Category",
+    "deleteCategory": "Delete Category",
+    "name": "Category Name",
+    "icon": "Icon",
+    "color": "Color",
+    "type": "Type",
+    "income": "Income",
+    "expense": "Expense"
+  },
+  "settings": {
+    "title": "Settings",
+    "profile": "Profile",
+    "preferences": "Preferences",
+    "security": "Security",
+    "darkMode": "Dark Mode",
+    "language": "Language",
+    "currency": "Currency",
+    "changePassword": "Change Password",
+    "logout": "Logout"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "confirm": "Confirm",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "month": "Month",
+    "year": "Year",
+    "all": "All"
+  }
+}
